@@ -25,7 +25,6 @@
     </a>
 	<a href="https://www.instagram.com/deeepak.tyagi/"><img title="instagram.com/deeepak.tyagi" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
-   <a href="https://www.facebook.com/iamdeepsz"><img title="facebook.com/iamdeepz" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
     </a>
 	<a href="https://medium.com/@deepak-tyagi" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
