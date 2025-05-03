@@ -13,7 +13,7 @@
  <h2 align="center">Summary</h2>
 
 - Software Professional with 4+ years of experience.
-- AWS SAA, CKA and Terraform Certified.
+- AWS SAA, CKA, CKS and Terraform Certified.
 - Good exposure on Automating Scripts using Selenium with Java, Cypress with JavaScript.
 - Hands-on Experience on **Devops & Cloud**.
 
