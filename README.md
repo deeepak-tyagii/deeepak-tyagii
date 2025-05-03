@@ -6,7 +6,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Deepak+Tyagi;I'm+from+Delhi,+India;I'm+a+DevOps+Cloud+Enthusiast;Be+Welcome!+ツ)
 
-- 🔭 I’m currently working in **GlobalLogic**
+- 🔭 I’m currently working in **TELUS**
 
 - 📫 Drop me a mail on **- deepaktyagi048@gmail.com**
 
